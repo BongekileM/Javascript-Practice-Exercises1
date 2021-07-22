@@ -1,4 +1,4 @@
-// Function returns the number of 'e's in a word
+// Function returns the number of 'e's in a word.
 
 let str = "";
 function countE(str) {

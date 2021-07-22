@@ -1,4 +1,4 @@
-// Function returns larger number out of the two numbers
+// Function returns larger number out of the two numbers.
 
 function largerNumber(num1, num2) {
     if (num1 > num2) {
